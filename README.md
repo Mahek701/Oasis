@@ -45,11 +45,12 @@ Each task demonstrates real-world applications of Data Science and Machine Learn
 
 ## 🙋‍♂️ About Me
 
-**Jainam Khetani** – B.Tech CSE student passionate about Data Science, ML, and building impactful projects.  
-🔗 [LinkedIn](https://linkedin.com/in/jainam-khetani)
+**Mahek Maru** – B.E. C.E. student passionate about Data Science, ML, and building impactful projects.  
+🔗 [LinkedIn](https://www.linkedin.com/in/mahek-maru-799237322/)
 
 ---
 
 ## 📌 Note
 
 Feel free to explore the notebooks and fork the repo if you find something useful! ⭐
+
